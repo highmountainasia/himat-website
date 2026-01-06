@@ -131,8 +131,7 @@ The following tables list data products that have been produced or will soon be 
 |-------|------|-------------------|---------------------|----|----------------------
 |[Global Inter-Basin Hydrological Transfer Database](https://data.msdlive.org/records/fkaan-vw036) | hydrological modeling | | Global | Rounce (HMA-2) | [Lammers et al, 2022](https://doi.org/10.57931/1905995)
 | [Daily 0.05 x 0.05 deg Noah-MP Land Surface Model Reanalysis](https://nsidc.org/data/hma2_nlsmr/versions/1) | water budget | 2003 to 2020 | HMA | Kumar, S (HMA-2) | |
-|River vector discharge at overpass intervals over entire domain | discharge |  | | Gleason (HMA-2) | Estimated publication: TBD
-|Small river vector discahrge from Planet over select basins | discharge | | | Gleason (HMA-2) | Estimated publication: summer 2023
+| [Daily Reach-Scale River Discharge using Data Assimilation](https://nsidc.org/data/hma2_rsrd/versions/1) | discharge | 2004 to 2019 | HMA | Gleason (HMA-2) | [Flores et al, 2025](/publication/flores-accelerating-2025/)
 |Total water storage, river discharge, other major water balance variables over HMA  | TWS, discharge | 1980 - | 6 arcminute resolution | Rounce (HMA-2) | Estimated publication: spring 2023
 |[CMIP6 Monthly and Yearly Water Balance Projections, 2016-2099 for Parts of Afghanistan, Tajikistan, Kyrgyzstan, and Pakistan](https://nsidc.org/data/hma2_wbp/versions/1) | hydrological modeling | 2016-2099 | Western HMA | Rounce (HMA-2) |
 |[5 Arc-Minute Hydrological Flow Direction for the Headwaters of the Amu Darya and Indus River Basins](https://nsidc.org/data/hma2_hfd/versions/1) | flow direction | 2023 | Amu Darya, Indus River Basins | Rounce (HMA-2) |
